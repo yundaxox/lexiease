@@ -7,7 +7,7 @@ import Priyanka from "../assets/Team/Priyanka.png"
 import Monish from '../assets/Team/monish.png';
 import Amogh from '../assets/Team/amogh.png';
 import Praphul from '../assets/Team/praphul.png';
-import Sohan from '../assets/Team/sohan.png';
+import Sohan from '../assets/Team/sohan.jpg';
 
 const teamMembers1 = [
     {
